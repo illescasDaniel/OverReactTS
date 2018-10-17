@@ -2,6 +2,9 @@
   "name": "over-react-ts",
   "version": "0.1.0",
   "private": true,
+  "author": "Daniel Illescas Romero",
+  "url": "https://github.com/illescasDaniel/OverReactTS",
+  "license": "MIT",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.6",
     "@fortawesome/free-solid-svg-icons": "^5.4.1",
