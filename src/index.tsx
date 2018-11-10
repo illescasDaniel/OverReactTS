@@ -4,6 +4,7 @@ import * as ReactDOM from 'react-dom'
 import './index.sass'
 import App from './pages/App/App'
 import registerServiceWorker from './registerServiceWorker'
+import './utils/extensions/index'
 
 ReactDOM.render(
   <App />,
