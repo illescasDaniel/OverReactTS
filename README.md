@@ -5,12 +5,16 @@ A template for cool web apps with react.
 
 **OverReactTS** uses:
 + TypeScript (you'll love the static typing)
-+ SASS & CSS Modules
++ SASS & CSS Modules \*
 + Bootstrap
 + Font awesome 5
 + Routes
-+ A basic folder configuration and some examples 
++ A basic folder configuration and some examples
 ---
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+\* You need to globally install:
+* node-sass-chokidar
+* typed-css-modules
 
 And [Create React App TypeScript](https://github.com/wmonk/create-react-app-typescript/blob/master/template/README.md).
