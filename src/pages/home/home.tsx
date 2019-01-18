@@ -2,9 +2,9 @@ import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import * as React from 'react'
 import { Button } from 'reactstrap'
+import logo from 'src/resources/logo.svg'
 import Log from 'src/utils/log';
 import Optional from 'src/utils/optional';
-import logo from '../../resources/logo.svg'
 
 export interface IHomeProps { text: string; testNumber?: number; }
 

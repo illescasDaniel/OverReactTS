@@ -1,6 +1,6 @@
 import * as React from 'react'
 import { BrowserRouter, Switch } from 'react-router-dom'
-import AppRoutes from '../../config/appRoutes'
+import AppRoutes from 'src/config/appRoutes'
 import * as styles from './styles/App.css'
 
 export default class App extends React.Component {
