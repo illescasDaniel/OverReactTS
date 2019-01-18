@@ -1,6 +1,6 @@
 import * as React from 'react'
 import { Route } from 'react-router-dom'
-import Home from 'src/pages/home/Home'
+import Home from 'src/pages/home/home'
 
 export default class AppRoutes extends React.Component {
 
